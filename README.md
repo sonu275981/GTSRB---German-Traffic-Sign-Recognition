@@ -30,4 +30,4 @@ This Project was very effective during the experimentations. In the end, the tra
 
 However, the Project some time did not work as good with ramdom sample images from the internet.
 
-Moreover, if a self-driving car needs to find traffic signs in public, it first needs to know where the traffic signs are. For speeding signs, we may need an OCR (object recognition) mechanism that scan across the image with sliding windows to find the candidate signs. This kind of detection mechanism is not covered in this App project. 
+Moreover, if a self-driving car needs to find traffic signs in public, it first needs to know where the traffic signs are. For speeding signs, we may need an OCR (object recognition) mechanism that scan across the image with sliding windows to find the candidate signs. This kind of detection mechanism is not covered in this project. 
