@@ -1,5 +1,4 @@
-# GTSRB---German-Traffic-Sign-Recognition
-# German Traffic Sign Classification
+# GTSRB-German-Traffic-Sign-Recognition
 
 In this project, I used Python and TensorFlow to classify traffic signs.
 
@@ -20,14 +19,8 @@ The goal of this project was to build a Convolutional Neural Network (CNN) in Te
 
 This are the main packages used:
 
- - [Flask](https://flask.palletsprojects.com/en/2.0.x/)
  - [Numpy](https://numpy.org/)
  - [Tensorflow](https://www.tensorflow.org/api_docs/python/tf/math/tan)
- - [Werkzeug](https://werkzeug.palletsprojects.com/en/2.0.x/)
- - [gunicorn](https://gunicorn.org/)
- - [itsdangerous](https://itsdangerous.palletsprojects.com/en/2.0.x/)
- - [Jinja2](https://jinja.palletsprojects.com/en/3.0.x/)
- - [MarkupSafe](https://markupsafe.palletsprojects.com/en/2.0.x/)
  - [Python 3.5 or above](https://www.python.org/) 
  
 Full details on the requirements.txt file.  
