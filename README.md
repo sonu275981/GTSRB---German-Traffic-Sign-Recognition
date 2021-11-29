@@ -26,8 +26,8 @@ This are the main packages used:
 Full details on the requirements.txt file.  
 ## Conclusion
 
-This App was very effective during the experimentations. In the end, the traffic sign classifier App works pretty well overall with the testing time.
+This Project was very effective during the experimentations. In the end, the traffic sign classifier App works pretty well overall with the testing time.
 
-However, the App some time did not work as good with ramdom sample images from the internet.
+However, the Project some time did not work as good with ramdom sample images from the internet.
 
 Moreover, if a self-driving car needs to find traffic signs in public, it first needs to know where the traffic signs are. For speeding signs, we may need an OCR (object recognition) mechanism that scan across the image with sliding windows to find the candidate signs. This kind of detection mechanism is not covered in this App project. 
